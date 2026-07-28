@@ -1,16 +1,16 @@
-## Hi there 👋
+### 🚀 Hi, I'm Alix
 
-<!--
-**alix-11/alix-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A teenager with a vision for the future, currently grinding the full-stack path and silently architecting the next big things.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Premium Minecraft setups, custom GUIs & configs, and laying the groundwork for ambitious future projects.
+- 🌱 **Learning:** Full-stack development (HTML, CSS, JavaScript, Node.js).
+- 👯 **Roles:** MC Professional Developer | Dev @RivalSetups | Founder @EasyItems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js (in progress)
+- **Dev Tools:** Git, GitHub, VS Code, Blockbench, Minecraft Plugin Configs
+
+### 📫 How to reach me
+- **Discord:** `ali11x_ **|** 1097057384008007773`
+- **Email:** `real.muhammadali2011@gmail.com`
