@@ -12,5 +12,5 @@ A teenager with a vision for the future, currently grinding the full-stack path 
 - **Dev Tools:** Git, GitHub, VS Code, Blockbench, Minecraft Plugin Configs
 
 ### 📫 How to reach me
-- **Discord:** `ali11x_ **|** 1097057384008007773`
+- **Discord:** `ali11x_ | 1097057384008007773`
 - **Email:** `real.muhammadali2011@gmail.com`
