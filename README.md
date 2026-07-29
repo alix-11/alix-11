@@ -9,7 +9,7 @@ A teenager with a vision for the future, currently grinding the full-stack path 
 ### 🛠️ Languages & Tools
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js (in progress)
-- **Dev Tools:** Git, GitHub, VS Code, Blockbench, Minecraft Plugin Configs
+- **Dev Tools:** Git, GitHub, VS Code, Blockbench, Aseprite
 
 ### 📫 How to reach me
 - **Discord:** `ali11x_ | 1097057384008007773`
